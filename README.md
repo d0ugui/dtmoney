@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="src/assets/logo.svg">
+   <img src="src/assets/logo1.svg">
 </h1>
 
 <img align="center" src="src/assets/tela.gif" alt="dtmoney">
