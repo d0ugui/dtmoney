@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Styled-components](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
 - [MirageJS](https://miragejs.com/)
 
 
