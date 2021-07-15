@@ -6,7 +6,7 @@
 
 ## 📖 Projeto
 
-Este projeto foi desenvolvido no Bootcamp da Rocketseat na trilha de ReactJS.
+Este projeto foi desenvolvido no Bootcamp da Rocketseat na trilha de ReactJS. O projeto tem como finalidade a introdução ao Typescript, bem como os primeiros passos em styled-components. Para reproduzir um ambiente completo, utilizamos o MirageJS como Fake API, configurando assim dados inicias estáticos e simulando rotas de requisição. 
 
 ## 🧪 Tecnologias
 
@@ -14,8 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled-components](https://www.typescriptlang.org/)
+- [MirageJS](https://miragejs.com/)
 
----
 
 ## 🚀 Como executar
 
@@ -38,7 +39,6 @@ $ yarn start
 
 O app estará disponível no seu browser pelo endereço http://localhost:3000/
 
----
 
 ## 📝 License
 
