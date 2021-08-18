@@ -4,11 +4,11 @@
 
 <img align="center" src="src/assets/tela.gif" alt="dtmoney">
 
-## 📖 Projeto
+## 💻 Projeto
 
-Este projeto foi desenvolvido no Bootcamp da Rocketseat na trilha de ReactJS. O projeto tem como finalidade a introdução ao Typescript, bem como os primeiros passos em styled-components. Para reproduzir um ambiente completo, utilizamos o MirageJS como Fake API, configurando assim dados inicias estáticos e simulando rotas de requisição. 
+Este projeto foi desenvolvido no Bootcamp da Rocketseat na trilha de ReactJS. O projeto tem como finalidade a introdução ao Typescript, bem como os primeiros passos em styled-components. Para reproduzir um ambiente completo, utilizamos o MirageJS como Fake API, configurando assim dados inicias estáticos e simulando rotas de requisição.
 
-## 🧪 Tecnologias
+## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,7 +16,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled-components](https://styled-components.com/)
 - [MirageJS](https://miragejs.com/)
-
 
 ## 🚀 Como executar
 
@@ -39,7 +38,6 @@ $ yarn start
 
 O app estará disponível no seu browser pelo endereço http://localhost:3000/
 
-
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
